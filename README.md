@@ -1,1 +1,4 @@
-This is a read me file just
+
+
+
+well we seeing the commit changes here......
